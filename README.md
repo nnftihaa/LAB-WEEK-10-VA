@@ -53,11 +53,11 @@ ping 10.0.2.4
 * Target: 10.0.2.4
 
 
-## **Scan Results**
+ ## **Scan Results**
 <img width="959" height="250" alt="image" src="https://github.com/user-attachments/assets/7cb99c21-413e-4368-adbf-342cdd91b236" />
 
 
-## **Top 5 Vulnerabilities Identified**
+ ## **Top 5 Vulnerabilities Identified**
 
 | No. | Vulnerability Name | CVE ID | CVSS Score | Severity | Port/Service |
 |------|-------------------|---------|------------|----------|-------------|
@@ -384,7 +384,7 @@ A Medium severity vulnerability that is internet-facing and requires no authenti
 
 ---
 
-# Overall Reflection
+## Overall Reflection
 
 Through these labs, vulnerability assessment skills were developed by learning how to identify vulnerabilities, interpret scanner findings, validate results manually, and prioritize remediation efforts based on risk rather than severity alone.
 
