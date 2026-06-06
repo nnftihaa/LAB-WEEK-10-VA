@@ -13,7 +13,7 @@
 
 ---
 
-## Lab 1: Host-Based Vulnerability Assessment
+# Lab 1: Host-Based Vulnerability Assessment
 
 ## Objective
 
@@ -73,7 +73,7 @@ ping 10.0.2.4
 The scan successfully identified multiple vulnerabilities affecting the target host. These findings will be further analyzed in Lab 2.
 
 ---
-## Lab 2: Vulnerability Analysis and Interpretation
+# Lab 2: Vulnerability Analysis and Interpretation
 
 ## **Objective**
 
@@ -241,7 +241,7 @@ Although all findings were reported as Critical by the scanner, actual risk depe
 
 ---
 
-## Lab 3: Vulnerability Validation
+# Lab 3: Vulnerability Validation
 
 ##  **Objective**
 
@@ -307,7 +307,7 @@ receiving security updates. These outdaated versions contain known vulnerabiliti
 
 ---
 
-## Lab 4: Risk-Based Vulnerability Prioritisation
+# Lab 4: Risk-Based Vulnerability Prioritisation
 
 **Objective**
 
